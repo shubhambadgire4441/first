@@ -6,3 +6,5 @@ c="i change folder in c"
 print(c)
 d="want to pull this "
 print(d)
+e="url copy"
+print(e)
